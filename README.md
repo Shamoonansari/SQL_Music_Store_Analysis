@@ -22,7 +22,7 @@ Key Focus Areas:
 
 7.Analysis of Top Customers by Purchase Rate
 
-Schema
+![Schema Image](C:\Users\Admin\Downloads)
 
 Insight: This SQL project delves into the world of music using a comprehensive music store dataset. Leveraging SQL queries, the project aims to uncover insights into various facets of the music industry, including sales analysis, customer behavior, and genre preferences.
 
