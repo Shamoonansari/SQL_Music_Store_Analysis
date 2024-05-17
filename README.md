@@ -1,4 +1,4 @@
-Music Store Analysis Project link: GitHub - SQL Music Store Analysis
+Music Store Analysis [Project link: GitHub](https://github.com/Shamoonansari/SQL_Music_Store_Analysis/blob/main/sql%20music%20analysis.pdf) 
 
 The music store analysis project, conducted using SQL, provides insights into the digital music store database to facilitate strategic decision-making and business growth. Through comprehensive examination and analysis of the dataset, the project addresses a range of questions, from geographical growth and purchase power to total revenue, genre performance, and music band popularity.
 
